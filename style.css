@@ -64,5 +64,5 @@ a{
 a:hover{
     cursor: pointer;
     color: rgba(0, 0, 0, 0.623);
-    transition: color .5s;
+    transition: color .6s;
 }
